@@ -21,3 +21,6 @@ Recommended Books
 
 ## Machine Learning:
 ![I predict the future](https://image.ibb.co/jktWQk/predict_Future.png)
+
+Video Courses Material
+* [CPSC 540 - Machine Learning by Nando de Freitas](http://www.cs.ubc.ca/~nando/540-2013/lectures.html)
