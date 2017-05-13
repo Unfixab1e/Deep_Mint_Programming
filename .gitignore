@@ -1,1 +1,6 @@
 .vscode/launch.json
+*.suo
+Courses/Algorithmic Toolbox/Week 1/Michael/Week1Homework/Week1Homework.sln
+*.filters
+Courses/Algorithmic Toolbox/Week 1/Michael/Week1Homework/Week1Homework/Week1Homework.vcxproj
+*.db
